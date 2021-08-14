@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning full-stack web development, and working on my own react projects
 - 💬 My profile is in progress, come back soon for updates!
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <!--
 **carrieannroh/carrieannroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
