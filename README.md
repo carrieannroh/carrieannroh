@@ -3,7 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7B23F&lines=Welcome+to+my+GitHub;Trainee+software+engingeer;Pleasure+to+meet+you;)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning full-stack web development with Academy & the Zero to Mastery School. Working on my own react & full-stack projects
+- 🌱 I’m currently learning full-stack web development with Academy & the Zero to Mastery School. 
+- 👩🏽‍💻 Working on my own react & full-stack projects
+- 📚 Check out what I'm reading <a href="https://www.goodreads.com/user/show/14706902-carrie-roberts">here</a>
+
 - 💬 Profile is in progress, come back soon for updates!
 
 Connect with me --> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carrie-roberts-543756150/)
