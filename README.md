@@ -9,15 +9,6 @@
 
 ---
 
-🧰 Toolbox
-
-<img src="file:///Users/carrie/Downloads/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-
-
----
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrieannroh&layout=compact&hide=java&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
