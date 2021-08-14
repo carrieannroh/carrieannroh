@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning full-stack web development, and working on my own react projects
 - 💬 My profile is in progress, come back soon for updates!
 
+Connect with me on LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carrie-roberts-543756150/)
+&nbsp;
+
 
 <!--
 **carrieannroh/carrieannroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
