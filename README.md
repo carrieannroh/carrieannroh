@@ -11,13 +11,9 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<carrieannroh>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrieannroh&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Carrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=<carrieannroh>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-🤝 Connect with me --> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carrie-roberts-543756150/)
-&nbsp;
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrieannroh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
