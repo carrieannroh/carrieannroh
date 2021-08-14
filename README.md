@@ -1,6 +1,6 @@
-### Hi there 👋
+Hi, I'm Carrie 🌱
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Carrie;Welcome+to+my+page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7B23F&lines=Welcome+to+my+GitHub;Trainee+software+engingeer;)](https://git.io/typing-svg)
 
 
 <!--
