@@ -7,7 +7,7 @@
 - 👩🏽‍💻 Working on my own react & full-stack projects
 - 💬 Profile is in progress, come back soon for updates!
 
-Connect with me --> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carrie-roberts-543756150/)
+🤝 Connect with me --> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carrie-roberts-543756150/)
 &nbsp;
 
 
