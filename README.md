@@ -1,7 +1,7 @@
 
-<h1>Hi, I'm Carrie ⭐🦄</h1>
+<h1>Hey, I'm Carrie ⭐🦄</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7B23F&lines=Welcome+to+my+GitHub;Trainee+software+engingeer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7B23F&lines=Welcome+to+my+GitHub;Trainee+software+engingeer;Pleasure+to+meet+you;)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning full-stack web development, and working on my own react projects
 - 💬 My profile is in progress, come back soon for updates!
