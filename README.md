@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning full-stack web development with Academy & the Zero to Mastery School. 
 - 👩🏽‍💻 Working on my own react & full-stack projects
-- 📚 Check out what I'm reading <a href="https://www.goodreads.com/user/show/14706902-carrie-roberts">here</a>
-
 - 💬 Profile is in progress, come back soon for updates!
 
 Connect with me --> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carrie-roberts-543756150/)
@@ -15,6 +13,8 @@ Connect with me --> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](
 
 <!--
 **carrieannroh/carrieannroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 📚 Check out what I'm reading <a href="https://www.goodreads.com/user/show/14706902-carrie-roberts">here</a>
 
 Here are some ideas to get you started:
 
